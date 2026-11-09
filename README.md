@@ -36,6 +36,7 @@ Coverage of Bangladesh's results in Poland, alongside an explanation of BDOAA's 
 | 2026 | IOAA, Vietnam | Digi Bangla | [Bangladesh's results and national delegation](https://digibanglatech.news/191895) |
 | 2026 | BDOAA national round, IUB | TBS Graduates | [National competition, prize giving, scientific discussions and Astronomy Night](https://tbsgraduates.net/campus/bdoaa-2026-national-round-held-at-iub/) |
 | 2026 | BDOAA national round, IUB | The Business Standard | [National-round announcement, competition categories and selection process](https://www.tbsnews.net/economy/corporates/bdoaa-2026-national-round-begin-18-april-iub-1412896) |
+| 2025 | IOAA, Mumbai, India | প্রতিদিনের বাংলাদেশ | [Bangladesh's achievements at IOAA 2025](https://protidinerbangladesh.com/feature/145558/জ্যোতির্বিজ্ঞানে-৪-শিক্ষার্থীর-সাফল্য) |
 | 2024 | IOAA Junior, Nepal; IOAA, Brazil | Ekushey Television | [Junior and senior achievements, with an overview of national selection](https://www.ekushey-tv.com/special-news/1360873111111151924) |
 | 2024 | IOAA, Brazil | The Daily Star | [Bronze medal, honourable mention and student experiences](https://online.thedailystar.net/tech-startup/news/bangladesh-wins-bronze-international-astronomy-and-astrophysics-olympiad-3690826) |
 | 2023 | IOAA, Poland | The Financial Express | [Two silver medals, one bronze medal and BDOAA's selection process](https://thefinancialexpress.com.bd/education/bangladesh-team-bags-2-silver-and-1-bronze-in-the-international-olympiad-on-astronomy-astrophysics) |
